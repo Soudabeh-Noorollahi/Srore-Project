@@ -44,16 +44,6 @@ The **Store Project** is a React-based web application that allows users to brow
    ```
 5. Open a Pull Request.
 
-## Future Improvements
-- Add user authentication.
-- Integrate a backend for real-time data management.
-- Improve the UI/UX design.
-- Add unit and integration tests.
-
-## License
-This project is licensed under the MIT License. See the LICENSE file for details.
-
----
 
 Developed with ❤️ by [Soudabeh Noorollahi](https://github.com/Soudabeh-Noorollahi).
 
