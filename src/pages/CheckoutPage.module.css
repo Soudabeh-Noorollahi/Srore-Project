@@ -1,0 +1,17 @@
+.container {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  padding: 10px;
+  min-height: 1000px;
+}
+.container p {
+  color: #fe5d42;
+  font-size: 20px;
+  text-align: center;
+  font-weight: bold;
+}
+
+.products {
+  width: 100%;
+}
