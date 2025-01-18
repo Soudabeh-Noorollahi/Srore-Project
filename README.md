@@ -28,22 +28,6 @@ The **Store Project** is a React-based web application that allows users to brow
    ```
 5. Open your browser and navigate to `http://localhost:3000`.
 
-## How to Contribute
-1. Fork the repository.
-2. Create a new branch for your feature:
-   ```bash
-   git checkout -b feature/your-feature-name
-   ```
-3. Commit your changes:
-   ```bash
-   git commit -m "Add your feature description"
-   ```
-4. Push the branch:
-   ```bash
-   git push origin feature/your-feature-name
-   ```
-5. Open a Pull Request.
-
 
 Developed with ❤️ by [Soudabeh Noorollahi](https://github.com/Soudabeh-Noorollahi).
 
