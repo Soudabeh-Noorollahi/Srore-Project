@@ -3,19 +3,9 @@
 ## Description
 The **Store Project** is a React-based web application that allows users to browse a list of products, manage their shopping cart, and navigate through various categories. The project features a responsive layout, intuitive user interface, and efficient state management using React Context.
 
-## Features
-- **Product Listing**: View a list of available products with details like name, price, and category.
-- **Shopping Cart**: Add, remove, or update products in the shopping cart.
-- **Sidebar Navigation**: Navigate through categories and options via a responsive sidebar.
-- **Search Functionality**: Search for products by category or keyword.
-- **Context API**: Centralized state management for the shopping cart and product data.
-- **Axios Configuration**: Pre-configured Axios for API requests.
-- **Responsive Design**: Optimized for mobile, tablet, and desktop devices.
-
 ## Technologies Used
 - **React**: For building the user interface.
 - **React Context**: For state management.
-- **Axios**: For handling API requests.
 - **CSS/SCSS**: For styling components.
 - **Git**: For version control.
 
